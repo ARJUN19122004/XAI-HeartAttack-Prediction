@@ -3,15 +3,15 @@ Explainable AI for Heart Attack Prediction through Retinal Vascular Biomarkers
 
 ---
 
-# *Heart Attack Risk Prediction Using Retinal Biomarkers and Explainable AI*
+# Heart Attack Risk Prediction Using Retinal Biomarkers and Explainable AI
 
-## *About the Project*
+## About the Project
 
 This project presents a machine learning–based system for predicting heart attack risk using non-invasive retinal fundus images. By extracting retinal vascular biomarkers such as CRAE, CRVE, AVR, vessel density, tortuosity, fractal dimension, and branch points, the system identifies early cardiovascular risk indicators. A Random Forest classifier is used for prediction, and Explainable AI (SHAP) is integrated to provide transparent and interpretable results for clinicians and users. This approach enables faster, non-invasive, and accessible cardiac risk screening.
 
 ---
 
-## *Features*
+## Features
 
 * Extraction of seven clinically relevant retinal vascular biomarkers.
 * Machine learning–based risk classification using Random Forest.
@@ -22,14 +22,14 @@ This project presents a machine learning–based system for predicting heart att
 
 ---
 
-## *Requirements*
+## Requirements
 
-* *Operating System:* Windows 10/11, macOS, or Ubuntu (64-bit)
-* *Programming Language:* Python 3.8 or later
-* *Image Processing Libraries:* OpenCV, scikit-image, NumPy
-* *Machine Learning Libraries:* scikit-learn, SHAP
-* *Development Environment:* Jupyter Notebook, Google Colab, or VS Code
-* *Additional Dependencies:*
+* Operating System: Windows 10/11, macOS, or Ubuntu (64-bit)
+* Programming Language: Python 3.8 or later
+* Image Processing Libraries: OpenCV, scikit-image, NumPy
+* Machine Learning Libraries: scikit-learn, SHAP
+* Development Environment: Jupyter Notebook, Google Colab, or VS Code
+* Additional Dependencies:
 
   * Matplotlib
   * Pandas
@@ -37,7 +37,7 @@ This project presents a machine learning–based system for predicting heart att
 
 ---
 
-## *System Architecture*
+## System Architecture
 
 <img width="1164" height="648" alt="image" src="https://github.com/user-attachments/assets/6dee3d5a-e3e0-4fa8-bf1d-eee1460e49da" />
 
@@ -45,7 +45,7 @@ This project presents a machine learning–based system for predicting heart att
 
 ---
 
-## *Output Samples*
+## Output Samples
 
 ### *Output 1 – Biomarker Extraction and Risk Prediction*
 
@@ -60,13 +60,13 @@ This project presents a machine learning–based system for predicting heart att
 
 ---
 
-## *Results and Impact*
+## Results and Impact
 
 The system demonstrates strong capability in evaluating cardiovascular risk using retinal biomarkers, offering a non-invasive, fast, and cost-effective alternative to conventional diagnostic methods. The integration of Explainable AI enhances clinical trust and provides insight into how each biomarker influences the prediction. This project contributes toward the development of accessible early-stage cardiovascular screening tools and can be extended for telemedicine applications.
 
 ---
 
-## *References*
+## References
 
 1. Sharma, P., & Natarajan, S. “Heart Attack Risk Prediction Using Retinal Eye Images,” J Neonatal Surg, 2025.
 2. Kumar, A., & Reddy, L. “Heart Attack Risk Prediction Using Retinal Eye Images,” IJFANS, 2023.
