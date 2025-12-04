@@ -39,7 +39,8 @@ This project presents a machine learning–based system for predicting heart att
 
 ## *System Architecture*
 
-<img width="1151" height="649" alt="image" src="https://github.com/user-attachments/assets/46edd936-ab7b-49de-a48b-676c75ccc420" />
+<img width="1164" height="648" alt="image" src="https://github.com/user-attachments/assets/6dee3d5a-e3e0-4fa8-bf1d-eee1460e49da" />
+
 
 
 ---
@@ -48,12 +49,13 @@ This project presents a machine learning–based system for predicting heart att
 
 ### *Output 1 – Biomarker Extraction and Risk Prediction*
 
-<img width="1093" height="223" alt="image" src="https://github.com/user-attachments/assets/352f0f7a-3367-4d5c-94be-1ee2d6bed285" />
+<img width="1096" height="228" alt="image" src="https://github.com/user-attachments/assets/9b7907be-d03f-4952-94a2-ff72319a0add" />
 
 
 ### *Output 2 – SHAP Explainability Visualization*
 
-<img width="1120" height="184" alt="image" src="https://github.com/user-attachments/assets/2b0cfe4a-13dd-4201-9a8c-cb02fb61b934" />
+<img width="1166" height="222" alt="image" src="https://github.com/user-attachments/assets/e1885d08-25f8-4298-8059-6a5ab3068c7e" />
+
 
 
 ---
