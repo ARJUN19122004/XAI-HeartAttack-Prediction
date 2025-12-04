@@ -1,9 +1,10 @@
 # XAI-HeartAttack-Prediction
-Explainable AI for Heart Attack Prediction through Retinal Vascular Biomarkers
+
 
 ---
 
-# Heart Attack Risk Prediction Using Retinal Biomarkers and Explainable AI
+# Explainable AI for Heart Attack Prediction through Retinal Vascular Biomarkers
+
 
 ## About the Project
 
